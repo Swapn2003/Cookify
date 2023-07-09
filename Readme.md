@@ -10,7 +10,7 @@ Cookify is a web application that allows users to explore a wide variety of reci
 
 ## Demo
 
-Check out the live demo of Cookify: [https://cookify-seven.vercel.app/](Cookify)
+Check out the live demo of Cookify: [Cookify](https://cookify-seven.vercel.app/)
 
 <!-- ## Screenshots
 
